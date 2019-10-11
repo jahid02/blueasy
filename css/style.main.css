@@ -1,0 +1,58 @@
+body{
+	background: #515f67;
+	height: auto;
+}
+.header{
+	background-image: url(../img/blueasy-freebie.png);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	min-height: 700px;
+	
+}
+.main-header{
+	background: #434D55;
+	opacity: 0.6;	
+}
+.banner-text{
+	padding-top: 210px;
+}
+.banner-text p{
+	font-size: 30px;
+}
+.about-section{
+	background-image: url(../img/who-is-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	
+}
+.contac{
+	background-image: url(../img/contac-bg.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.form-control{
+	background: #505e66;
+	opacity: 0.1;
+	border-radius: 0;
+	height: 50px;		
+}
+
+.btn{
+	border-radius: 0;
+	padding: 8px 0px;
+}
+
+.footer{
+	background: #353f47;
+}
+.footer div div a:hover{
+	text-decoration: none;
+}
+
+
+
+
+
+
